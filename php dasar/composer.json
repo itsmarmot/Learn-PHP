@@ -1,0 +1,16 @@
+{
+    "name": "rezafikkri/phpdasar",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Rezafikkri\\Phpdasar\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "rezafikkri",
+            "email": "fikkri.reza@gmail.com"
+        }
+    ],
+    "require": {}
+}
